@@ -1,0 +1,151 @@
+﻿ID_Transaksi,Tanggal_Transaksi,Jenis_Kelamin,Usia_Pelanggan,Nama_Produk,Kategori_Produk,Jumlah_Pembelian,Harga_Satuan,Total_Penjualan,Metode_Pembayaran,Status_Pesanan,Jenis_Pelanggan
+TRX0001,29 Aug 2026,Laki-laki,33,Mouse Wireless,Elektronik,3,Rp 150.000,450000,Transfer Bank,Selesai,Member
+TRX0002,30-08-2026,Laki-laki,31,Mouse Wireless,elektronik,1,150000,150000,TF,Batal,baru
+TRX0003,29-10-2026,Perempuan,,Seprei,Rumah Tangga,1,150000,150000,E-Wallet,Diproses,Pelanggan Baru
+TRX0004,18/09/2026,N/A,23,Celana Jeans,Fashion,1,220000,220000,E-Wallet,Proses,Member
+TRX0005,11-08-2026,Perempuan,42,Charger,Elektronik ,1,75000,Rp 75.000,E-Wallet,Dikirim,Pelanggan Baru
+TRX0006,2026-08-30,Laki-laki,23,Keyboard,Elektronik,3,250000,750000,N/A,Dibatalkan,member 
+TRX0007,27/08/2026,Perempuan,40,Sunscreen,Kecantikan,3,Rp 65.000,195000,E-Wallet,Dikirim,Pelanggan Baru
+TRX0008,21-10-2026,Laki-laki,35,Sepatu,Fashion,3 pcs,350000,1400000,E-Wallet,Proses,Pelanggan Baru
+TRX0009,09-08-2026,Laki-laki,35,,Elektronik,4,180000,720000,Ewallet,Dikirim,Member
+TRX0010,18 Aug 2026,P,34,Rak Mini,Rumah Tangga,,120000,240000,transfer,Dibatalkan,Member
+TRX0011,03/10/2026,Pria,50,Sunscreen,Kecantikan,2,65000,130000,Transfer Bank,Selesai,Pelanggan Baru
+TRX0012,2026-09-18,Perempuan,42,Sepatu,fashion,1,350000,350000,E-Wallet,Selesai,Pelanggan Baru
+TRX0013,25-09-2026,Laki-laki,36,Serum,,1,90000,90000,COD,Selesai,Member
+TRX0014,17 Oct 2026,Laki-laki,50,Kaos,Fashion,3,Rp 85.000,255000,QRIS,Diproses,Pelanggan Baru
+TRX0015,15-08-2026,Perempuan,19,Headset,Elektronik,4,,720000,E-Wallet,Dikirim,Pelanggan Baru
+TRX0016,09/08/2026,Laki-laki,49,Kaos,fashion,1,85000,85000,TF,Dibatalkan,Pelanggan Baru
+TRX0017,2026-10-28,Laki-laki,52,Moisturizer,Kecantikan,2,80000,160000,E-Wallet,Dibatalkan,Member
+TRX0018,29 Aug 2026,N/A,33,Rak Mini,Rumah Tangga,1,120000,120000,Ewallet,Selesai,Pelanggan Baru
+TRX0019,30-08-2026,Laki-laki,21,Kaos,Fashion,1,85000,Rp 85.000,E-Wallet,Diproses,Pelanggan Baru
+TRX0020,2026-10-09,Laki-laki,N/A,Celana Jeans,Fashion,4,220000,880000,COD,Dikirim,Member
+TRX0021,24-10-2026,Perempuan,24,Lampu LED,rumah tangga,1,40000,40000,transfer,Dibatalkan,Member
+TRX0022,21-09-2026,Perempuan,21,Botol Minum,Rumah Tangga,1,35000,35000,Transfer Bank,N/A,Pelanggan Baru
+TRX0023,24/08/2026,Perempuan,250,Sepato,Fashion,2,350000,700000,COD,Dikirim,Pelanggan Baru
+TRX0024,02/08/2026,Laki-laki,52,Botol Minum,Rumah Tangga,1,35000,35000,QRIS,Dikirim,Member
+TRX0025,08-08-2026,Laki-laki,43,Rak Mini,Rumah Tangga,2,Rp 120.000,240000,COD,Selesai,Member
+TRX0026,29 Oct 2026,Perempuan,45,Moisturizer,Kecantikan,3,80000,999999,QRIS,Dikirim,Member
+TRX0027,08/08/2026,Laki-laki,38,Kaos,Fashion,1,85000,85000,COD,Dibatalkan,Pelanggan Baru
+TRX0028,26/10/2026,Laki-laki,22,keyboard ,Elektronik,N/A,250000,250000,COD,Selesai,Pelanggan Baru
+TRX0029,12/10/2026,Perempuan,55,mouse wireless ,Elektronik,4,150000,600000,QRIS,Dikirim,Member
+TRX0030,25/10/2026,Perempuan,26,N/A,Fashion,4,220000,880000,COD,Diproses,Pelanggan Baru
+TRX0031,2026-10-08,Laki-laki,22,Charger,Elektronik,1,75000,75000,E-Wallet,Dikirim,member 
+TRX0032,21-08-2026,Perempuan,36,Keyboard,Elektronik,3,250000,750000,Ewallet,Selesai,N/A
+TRX0033,2026-08-14,P,25,Keyboard,Elektronik,3,250000,750000,E-Wallet,Diproses,Pelanggan Baru
+TRX0034,2026-10-02,Perempuan,50,Sunscreen,Kecantikan,3,65000,,Transfer Bank,Selesai,Member
+TRX0035,17-08-2026,Perempuan,39,Facial Wash,Kecantikan,1,45000,45000,Cash,Dibatalkan,Member
+TRX0036,09/10/2026,Laki-laki,27,Mouse Wireless,Elektronik,1,150000,150000,E-Wallet,Dikirim,Pelanggan Baru
+TRX0037,06 Aug 2026,Perempuan,-,Kaos,Fashion,3,85000,255000,QRIS,Dikirim,Pelanggan Baru
+TRX0038,21/08/2026,Pria,33,Moisturizer,kecantikan,2,80000,160000,COD,Selesai,Pelanggan Baru
+TRX0039,21/08/2026,Laki-laki,35,Moisturizer,Kecantikan,2,80000,160000,,Selesai,Member
+TRX0040,09/09/2026,Laki-laki,40,Hoodie,Fashion,4,180000,720000,QRIS,Proses,Pelanggan Baru
+TRX0041,05/09/2026,Perempuan,22,Sprei,Rumah Tangga,3,Rp 150.000,450000,COD,Diproses,Member
+TRX0042,03 Sep 2026,Laki-laki,55,Head set,Elektronik ,2,180000,360000,Transfer Bank,Dibatalkan,Member
+TRX0043,2026-10-13,Laki-laki,42,Moisturizer,Kecantikan,1,N/A,80000,E-Wallet,Selesai,Member
+TRX0044,09 Aug 2026,Perempuan,45,Keyboard,Elektronik,3,250000,750000,Cash,Selesai,Member
+TRX0045,29-10-2026,,43,Moisturizer,Kecantikan,3,80000,240000,QRIS,Dikirim,Member
+TRX0046,10/10/2026,Laki-laki,43,Lampu LED,Rumah Tangga,3,40000,120000,E-Wallet,Diproses,Pelanggan Baru
+TRX0047,26 Sep 2026,Laki-laki,46,Sprei,Rumah Tangga,4,150000,600000,COD,Dikirim,Pelanggan Baru
+TRX0048,26-10-2026,Perempuan,33,Serum,Kecantikan,1,90000,90000,QRIS,Dikirim,Pelanggan Baru
+TRX0049,18 Oct 2026,Laki-laki,48,Mouse Wireless,Elektronik,2,150000,300000,COD,Dibatalkan,Pelanggan Baru
+TRX0050,19/08/2026,Laki-laki,33,Rak Mini,Rumah Tangga,-,120000,480000,Transfer Bank,Dibatalkan,Pelanggan Baru
+TRX0051,01/09/2026,Laki-laki,53,Sepatu,Fashion,1,350000,350000,COD,Dikirim,Member
+TRX0052,27-09-2026,Laki-laki,53,Mosturizer,Kecantikan,4,80000,320000,Cash,Dibatalkan,Member
+TRX0053,05 Sep 2026,Perempuan,33,celana jeans ,Fashion,4,220000,Rp 880.000,Transfer Bank,Diproses,Pelanggan Baru
+TRX0054,11/08/2026,Laki-laki,52,Serumm,Kecantikan,3,90000,270000,QRIS,Dikirim,member 
+TRX0055,22-09-2026,Perempuan,44,Hoodie,Fashion,1,180000,180000,COD,Dibatalkan,Pelanggan Baru
+TRX0056,29 Oct 2026,Laki-laki,55,Sepatu,N/A,4,350000,1400000,COD,dikirim,Pelanggan Baru
+TRX0057,08 Oct 2026,Laki-laki,44,Serum,Kecantikan,4,90000,360000,TF,Dikirim,Member
+TRX0058,13-09-2026,Perempuan,,rak mini ,Rumah Tangga,1,120000,120000,QRIS,Dibatalkan,BARU
+TRX0059,22 Oct 2026,Perempuan,23,Charger,Elektronik,1,75000,75000,QRIS,Dibatalkan,Pelanggan Baru
+TRX0060,28 Aug 2026,Perempuan,38,Headset,Elektronik,4,Rp 180.000,720000,transfer,Diproses,Member
+TRX0061,30/09/2026,perempuan ,23,Moisturizer,Beauty,3,80000,240000,Transfer Bank,Diproses,Pelanggan Baru
+TRX0062,26/08/2026,Laki-laki,33,mouse wireless ,Elektronik,dua,150000,150000,transfer,Dikirim,BARU
+TRX0063,29/10/2026,Perempuan,47,Botol Minumm,Rumah Tangga,2,35000,70000,E-Wallet,Dikirim,Pelanggan Baru
+TRX0064,04-08-2026,Perempuan,55,Celana Jeans,Fashon,1,220000,220000,COD,Dibatalkan,Pelanggan Baru
+TRX0065,2026-10-27,Laki-laki,37,Keyboard,Elektronik,1,250000,250000,Transfer Bank,,Member
+TRX0066,23 Sep 2026,Perempuan,18,Facial Wash,Kecantikan,3,45000,135000,Transfer Bank,Dibatalkan,Member
+TRX0067,06-10-2026,Perempuan,-5,Lampu LED,Rumah Tangga,4,40000,160000,COD,Dibatalkan,Member
+TRX0068,2026-09-05,Perempuan,23,Serum,kecantikan,2,90000,180000,QRIS,Dibatalkan,Member
+TRX0069,2026-08-24,perempuan ,38,Facial Wash,Kecantikan,4,45000,180000,QRIS,Diproses,Member
+TRX0070,02-08-2026,Laki-laki,53,serum ,Kecantikan,3,90000,270000,Transfer Bank,Dikirim,Member
+TRX0071,2026-09-27,Laki-laki,49,,Rumah Tangga,4,40000,160000,Transfer Bank,Diproses,Pelanggan Baru
+TRX0072,17/09/2026,perempuan ,55,Lampu LED,Rumah Tangga,3,40000,120000,E-Wallet,Dibatalkan,Pelanggan Baru
+TRX0073,02-09-2026,Laki-laki,37,Moisturizer,Kecantikan,3,80000,240000,TF,Dikirim,Member
+TRX0074,01 Oct 2026,Perempuan,31,Keyboard,Elektronik,2,250000,10000,E-Wallet,Selesai,Pelanggan Baru
+TRX0075,08/09/2026,Laki-laki,29,Sunscreen,Beauty,3,65000,195000,QRIS,Diproses,Pelanggan Baru
+TRX0076,14 Aug 2026,Laki-laki,49,Headset,Elektronik,2,Rp 180.000,360000,E-Wallet,Selesai,Member
+TRX0077,2026-09-02,Perempuan,21,Sprei,rumah tangga,,150000,300000,Transfer Bank,Selesai,Member
+TRX0078,20/08/2026,Perempuan,27,Botol Minum,Rumah Tangga,1,35000,35000,Ewallet,Dikirim,Pelanggan Baru
+TRX0079,26 Sep 2026,Laki-laki,46,lampu led ,Rumah Tangga,4,40000,160000,COD,Diproses,Pelanggan Baru
+TRX0080,24-10-2026,Laki-laki,34,Keyboard,Elektronik,2,250000,500000,Transfer Bank,Diproses,Pelanggan Baru
+TRX0081,2026-09-27,Perempuan,44,Keyboard,Elektronik,1,250000,250000,E-Wallet,Selesai,Pelanggan Baru
+TRX0082,27 Oct 2026,Laki-laki,22,Serum,Kecantikan,4,90000,360000,E-Wallet,Dikirim,Member
+TRX0083,2026-08-19,Wanita,35,Keyboard,Elektronik,2,250000,500000,,Proses,Member
+TRX0084,28 Oct 2026,Perempuan,47,Moisturizer,Kecantikan,1,80000,80000,COD,Dibatalkan,Member
+TRX0085,11-09-2026,Perempuan,45,Botol Minum,Rumah Tangga,999,35000,35000,Transfer Bank,Batal,Pelanggan Baru
+TRX0086,30/09/2026,Perempuan,29,Headset,Elektronik ,1,180000,180000,QRIS,Dikirim,Member
+TRX0087,22 Sep 2026,L,40,Botol Minum,Rumah Tangga,4,35000,140000,Ewallet,Selesai,Pelanggan Baru
+TRX0088,2026-10-24,Perempuan,36,Moisturizer,Kecantikan,4,80000,Rp 320.000,Transfer Bank,Dibatalkan,Pelanggan Baru
+TRX0089,21-09-2026,Laki-laki,unknown,Serum,Kecantikan,3,90000,270000,QRIS,Dibatalkan,Member
+TRX0090,07/08/2026,Laki-laki,46,Celana Jeans,Fashion,4,220000,880000,E-Wallet,Dikirim,Member
+TRX0091,2026-10-20,Laki-laki,19,Rak Mini,Rumah Tangga,1,120000,120000,QRIS,Diproses,Pelanggan Baru
+TRX0092,29-09-2026,N/A,25,Botol Minum,Rumah Tangga,2,35000,70000,QRIS,Dibatalkan,Member
+TRX0093,2026-09-01,Perempuan,48,moisturizer ,Kecantikan,4,80000,320000,Cash,Dibatalkan,Pelanggan Baru
+TRX0094,13-09-2026,Perempuan,44,Kaos,Fashion,3,-,255000,Transfer Bank,Diproses,Member
+TRX0095,01/10/2026,Perempuan,52,Lampu LED,Rumah Tangga,4,40000,160000,E-Wallet,Dibatalkan,Member
+TRX0096,31/02/2026,Laki-laki,54,Sunscreen,Kecantikan,2,65000,130000,Cash,Selesai,Member
+TRX0097,2026-10-03,Laki-laki,27,Rak Mini,Rumah Tangga,4,Rp 120.000,480000,QRIS,Selesai,Pelanggan Baru
+TRX0098,19-08-2026,Perempuan,18,Botol Minum,Rumah Tangga,4,35000,140000,QRIS,Batal,Member
+TRX0099,12 Sep 2026,Perempuan,23,Serumm,Kecantikan,0,90000,360000,E-Wallet,Dibatalkan,member 
+TRX0100,12/08/2026,Perempuan,32,Keyboard,Elektronik,3,250000,750000,Transfer Bank,Dibatalkan,Member
+TRX0101,11 Sep 2026,Laki-laki,20,Celana Jeans,Fashion,1,220000,220000,E-Wallet,Diproses,Member
+TRX0102,22 Sep 2026,Wanita,N/A,Lampu LED,Rumah Tangga,2,40000,80000,QRIS,Dikirim,Pelanggan Baru
+TRX0103,2026-08-19,Laki-laki,55,Lampu LED,Rumah Tangga,4,40000,160000,Ewallet,Diproses,Member
+TRX0104,2026-10-26,Wanita,36,Facial Wash,Kecantikan,4,45000,180000,Transfer Bank,Dibatalkan,N/A
+TRX0105,2026-09-08,Laki-laki,47,Moisturizer,Kecantikan,3,80000,Rp 888.888.888,COD,Dibatalkan,Pelanggan Baru
+TRX0106,07-09-2026,Perempuan,54,sepatu ,Fashion,3,350000,1050000,Transfer Bank,Dibatalkan,Member
+TRX0107,30/08/2026,L,36,Mouse Wireless,Elektronik,4,150000,600000,QRIS,Dikirim,Member
+TRX0108,26/09/2026,Laki-laki,37,Kaos,Fashion,1,85000,85000,E-Wallet,Dikirim,Pelanggan Baru
+TRX0109,26 Aug 2026,Laki-laki,29,serum ,Kecantikan,4,90000,N/A,E-Wallet,Diproses,MEMBER
+TRX0110,2026-08-15,Perempuan,39,Moisturizer,Kecantikan,3,80000,Rp 240.000,Ewallet,Dikirim,Pelanggan Baru
+TRX0111,02-08-2026,Perempuan,43,Seprei,Rumah tangga ,1,150000,150000,Transfer Bank,Dibatalkan,Member
+TRX0112,26/10/2026,Laki-laki,24,moisturizer ,Kecantikan,3,80000,240000,N/A,Diproses,MEMBER
+TRX0113,23-10-2026,Perempuan,37,Kaos,Fashion,4,85000,340000,Transfer Bank,Dikirim,Pelanggan Baru
+TRX0114,2026-08-13,P,25,Head set,Elektronik,4,180000,720000,QRIS,Dibatalkan,Pelanggan Baru
+TRX0115,2026-10-23,Laki-laki,44,Moisturizer,kecantikan,2,80000,160000,COD,Dibatalkan,Member
+TRX0116,26/09/2026,Wanita,46,Headset,Elektronik ,2,Rp 180.000,360000,qris ,Selesai,Member
+TRX0117,25 Aug 2026,Laki-laki,35,Facial Wash,Kecantikan,4,9999999,180000,COD,Selesai,Pelanggan Baru
+TRX0118,17 Aug 2026,Laki-laki,33,Mouse Wireless,Elektronik,3,150000,450000,Transfer Bank,Selesai,Pelanggan Baru
+TRX0119,2026-09-05,Laki-laki,,Celana Jeans,Fashion,2,220000,440000,QRIS,Diproses,Pelanggan Baru
+TRX0120,2026-09-15,perempuan ,18,Mouse Wireless,N/A,2,150000,300000,E-Wallet,Selesai,Pelanggan Baru
+TRX0121,07 Oct 2026,Laki-laki,44,Facial Wash,Kecantikan,2,45000,90000,Transfer Bank,Dibatalkan,Member
+TRX0122,2026-08-29,Laki-laki,50,Facial Wash,Kecantikan,unknown,45000,180000,E-Wallet,dikirim,Pelanggan Baru
+TRX0123,27/10/2026,Laki-laki,45,Charger,Elektronik,4,75000,300000,COD,Dibatalkan,Pelanggan Baru
+TRX0124,17/08/2026,Perempuan,22,Headset,Elektronik,2,180000,360000,E-Wallet,Dibatalkan,Member
+TRX0125,23-10-2026,Laki-laki,25,Rak Mini,Rumah tangga ,-2,120000,120000,COD,Dibatalkan,Pelanggan Baru
+TRX0126,23 Sep 2026,Laki-laki,43,Sprei,RT,4,150000,600000,E-Wallet,Dibatalkan,Member
+TRX0127,2026-08-09,Laki-laki,48,Serum,Kecantikan,2,90000,180000,Transfer Bank,Selesai,baru
+TRX0128,08-08-2026,N/A,53,Headset,Elektronik,2,180000,360000,Ewallet,Dibatalkan,Member
+TRX0129,15/09/2026,Laki-laki,37,Botol Minum,Rumah Tangga,3,35000,105000,QRIS,Dikirim,Member
+TRX0130,17 Sep 2026,Laki-laki,53,Kaos,Fashion,3,85000,-150000,E-Wallet,Dikirim,Member
+TRX0131,04/09/2026,Perempuan,-,Headset,Elektronik,1,180000,180000,E-Wallet,Dikirim,Pelanggan Baru
+TRX0132,2026-08-19,Laki-laki,22,Hoodie,Fashion,4,180000,720000,Transfer Bank,Batal,Member
+TRX0133,17-09-2026,perempuan ,28,Rak Mini,,3,120000,360000,E-Wallet,Selesai,MEMBER
+TRX0134,tanggal tidak diketahui,Perempuan,23,Hoodie,Fashion,1,180000,180000,COD,Dibatalkan,Member
+TRX0135,2026-08-15,Perempuan,50,Sprei,Rumah Tangga,2,150000,300000,COD,Selesai,Member
+TRX0136,20 Sep 2026,L,32,Sprei,Rumah Tangga,1,150000,150000,transfer,Dikirim,Member
+TRX0137,11 Sep 2026,laki laki,36,Hoodie,Fashion,3,,540000,Transfer Bank,Dibatalkan,Member
+TRX0138,2026-10-30,Laki-laki,52,Hoodie,Fashion,4,180000,720000,E-Wallet,Selesai,Member
+TRX0139,10 Aug 2026,Perempuan,47,Charger,Elektronik,1,Rp 75.000,75000,COD,Dibatalkan,baru
+TRX0140,11-09-2026,perempuan ,,Facial Wash,Beauty,4,45000,180000,COD,Diproses,Pelanggan Baru
+TRX0011,03/10/2026,Pria,50,Sunscreen,Kecantikan,2,65000,130000,Transfer Bank,Selesai,Pelanggan Baru
+TRX0021,24-10-2026,Perempuan,24,Lampu LED,rumah tangga,1,40000,40000,transfer,Dibatalkan,Member
+TRX0031,2026-10-08,Laki-laki,22,Charger,Elektronik,1,75000,75000,E-Wallet,Dikirim,member 
+TRX0051,2026-10-14,Perempuan,54,Sepatu,Fashion,500,350000,1400000,E-Wallet,Selesai,Pelanggan Baru
+TRX0145,20-10-2026,Perempuan,46,Botol Minum,Rumah Tangga,4,35000,140000,COD,Selesai,Member
+TRX0146,05/08/2026,Laki-laki,46,Headset,Elektronik,4,180000,720000,E-Wallet,Diproses,N/A
+TRX0147,2026-10-10,Laki-laki,55,Charger,Elektronik,4,75000,300000,COD,Dikirim,Member
+TRX0148,14-08-2026,Perempuan,N/A,Lampu LED,Rumah Tangga,1,40000,40000,Transfer Bank,Diproses,Pelanggan Baru
+TRX0149,06/10/2026,Laki-laki,51,Sepatu,Fashion,4,350000,1400000,E-Wallet,Diproses,Member
+TRX0150,2026-10-20,Perempuan,21,Rak Mini,Rumah Tangga,3,120000,360000,Transfer Bank,Dikirim,Pelanggan Baru

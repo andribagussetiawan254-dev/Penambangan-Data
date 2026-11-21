@@ -1,0 +1,37 @@
+STUDI KASUS
+DATA PENJUALAN E-COMMERCE
+
+A. PENJELASAN VARIABEL
+
+1. ID_Transaksi: Kode unik setiap transaksi.
+2. Tanggal_Transaksi: Tanggal transaksi dilakukan.
+3. Jenis_Kelamin: Jenis kelamin pelanggan.
+4. Usia_Pelanggan: Usia pelanggan dalam tahun.
+5. Nama_Produk: Nama produk yang dibeli.
+6. Kategori_Produk: Kategori produk yang dibeli.
+7. Jumlah_Pembelian: Jumlah produk yang dibeli.
+8. Harga_Satuan: Harga satu unit produk.
+9. Total_Penjualan: Total nilai transaksi.
+10. Metode_Pembayaran: Cara pelanggan membayar.
+11. Status_Pesanan: Status pesanan pelanggan.
+12. Jenis_Pelanggan: Keterangan pelanggan member atau pelanggan baru.
+
+B. SOAL STUDI KASUS
+
+Gunakan dataset Data Penjualan E-Commerce untuk menjawab pertanyaan berikut.
+
+1. Berapa jumlah baris dan kolom pada dataset?
+2. Sebutkan seluruh variabel yang terdapat dalam dataset dan tentukan jenis datanya.
+3. Apakah terdapat missing value pada dataset? Sebutkan variabel yang memiliki nilai kosong.
+4. Temukan kesalahan penulisan atau perbedaan format pada data kategorik. Bagaimana cara memperbaikinya?
+5. Temukan data numerik yang memiliki format tidak seragam. Bagaimana cara mengubahnya menjadi format numerik?
+6. Identifikasi nilai yang tidak wajar (impossible value) pada variabel usia pelanggan, jumlah pembelian, harga satuan, dan total penjualan.
+7. Apakah terdapat data duplikat atau ID transaksi yang digunakan lebih dari satu kali? Jelaskan penanganannya.
+8. Identifikasi kandidat outlier pada data numerik menggunakan metode IQR.
+9. Apakah terdapat tanggal transaksi yang tidak valid? Bagaimana cara menanganinya?
+10. Periksa kesesuaian nilai Total_Penjualan dengan hasil perkalian Jumlah_Pembelian dan Harga_Satuan.
+11. Lakukan proses data cleansing untuk memperbaiki permasalahan yang ditemukan.
+12. Setelah proses pembersihan selesai, periksa kembali apakah masih terdapat missing value, data duplikat, dan ketidaksesuaian data.
+13. Simpan dataset yang telah dibersihkan ke dalam file CSV.
+
+Catatan: Dataset merupakan data simulasi untuk keperluan pembelajaran.
